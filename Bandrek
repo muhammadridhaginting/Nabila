@@ -1969,7 +1969,7 @@ http://168.227.22.18:1935/live/mobile-067/playlist.m3u8
 #EXTINF:-1 tvg-logo=" https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="PATUMBAK CHANNEL", ANIMAL PLANET
 http://168.227.22.18:1935/live/mobile-068/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="MPATUMBAK CHANNEL", ZOO MOO
+#EXTINF:-1 tvg-logo=" https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="PATUMBAK CHANNEL", ZOO MOO
 http://168.227.22.18:1935/live/mobile-069/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="PATUMBAK CHANNEL", TNT
